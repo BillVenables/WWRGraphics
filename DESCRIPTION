@@ -1,0 +1,19 @@
+Package: WWRGraphics
+Type: Package
+Title: Traditional Graphics Enhancements for WWR
+Version: 0.1.2
+Date: 2020-01-20
+Author: Bill Venables
+Maintainer: Bill Venables <Bill.Venables@gmail.com>
+Description: This package provides some tools that enhance
+  traditional graphics, primarily for use in the 'Working With R' workshops.
+Imports: magrittr, scales, methods
+Suggests: knitr, rmarkdown, ggplot2, ggrepel, PBSmapping, lazyData,
+        MASS
+Depends: R (>= 3.5.0), WWRData, graphics, grDevices, stats
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
+VignetteBuilder: knitr
+NeedsCompilation: no
