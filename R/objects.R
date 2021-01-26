@@ -147,7 +147,7 @@ pal_dark_rainbow <- colorRampPalette(c(red    = "#ff0000",
                                        green  = "#008000",
                                        blue   = "#0000ff",
                                        indigo = "#4b0082",
-                                       violet = "#ee82ee"))
+                                       violet = "#ee82ee")) ## added 2021-01-26
 
 #' Extended colour sets
 #'
