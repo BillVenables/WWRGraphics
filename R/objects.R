@@ -151,7 +151,7 @@ pal_dark_rainbow <- colorRampPalette(c(red    = "#ff0000",
 
 #' Extended colour sets
 #'
-#' Search an estended database for more colours using a regular
+#' Search an extended database for more colours using a regular
 #' expression on their given names
 #' @param description A regular expression fot the colour name
 #' @param database Either \code{"Set1"} (the default) or \code{"Set2"}.
