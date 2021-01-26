@@ -28,7 +28,7 @@ getColours(
 A vector of colours matching the \code{description}, or \code{character(0)}.
 }
 \description{
-Search an estended database for more colours using a regular
+Search an extended database for more colours using a regular
 expression on their given names
 }
 \examples{

@@ -14,6 +14,7 @@
 \alias{pal_grey}
 \alias{pal_gray}
 \alias{pal_namatjira}
+\alias{pal_dark_rainbow}
 \title{Colour palette functions}
 \usage{
 pal_cool(n)
@@ -39,6 +40,8 @@ pal_grey(n)
 pal_gray(n)
 
 pal_namatjira(n)
+
+pal_dark_rainbow(n)
 }
 \arguments{
 \item{n}{desired number of colours}

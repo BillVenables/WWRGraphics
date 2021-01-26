@@ -141,13 +141,13 @@ pal_namatjira <- colorRampPalette(c("#D8F0F0FF", "#786060FF",
 
 #' @rdname palettes
 #' @export
-pal_dark_rainbow <- colorRampPalette(c(red    = "#ff0000",
-                                       orange = "#ffa500",
-                                       yellow = "#ffff00",
-                                       green  = "#008000",
-                                       blue   = "#0000ff",
-                                       indigo = "#4b0082",
-                                       violet = "#ee82ee")) ## added 2021-01-26
+pal_dark_rainbow <- colorRampPalette(c("#ff0000", # red    =
+                                       "#ffa500", # orange =
+                                       "#ffff00", # yellow =
+                                       "#008000", # green  =
+                                       "#0000ff", # blue   =
+                                       "#4b0082", # indigo =
+                                       "#ee82ee"))  # violet =  ## added 2021-01-26
 
 #' Extended colour sets
 #'
